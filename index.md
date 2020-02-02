@@ -1,4 +1,4 @@
-layout: home
+Welcome To My World
 
 # Hello New World
 
