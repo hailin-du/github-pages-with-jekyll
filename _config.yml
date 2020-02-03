@@ -1,13 +1,12 @@
 # Lets see if it fix the problem
-title: Hailin's New Journey
-author: Luffy
+title: Luffy's New Journey
+author: Hailin
 email: hailin.du91@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello Everyone! This is Hailin, and his journey!
+  Hello Everyone! This is Luffy, and his journey!
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+github_username:  https://github.com/hailin-du
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
